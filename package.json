@@ -1,0 +1,20 @@
+{
+  "name": "news-api-deta",
+  "version": "1.0.0",
+  "description": "News API using Express, Deta Base and Deta Micros.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Express",
+    "API",
+    "Deta"
+  ],
+  "author": "Walid R. Rashed",
+  "license": "MIT",
+  "dependencies": {
+    "deta": "^1.0.1",
+    "express": "^4.17.2"
+  }
+}
